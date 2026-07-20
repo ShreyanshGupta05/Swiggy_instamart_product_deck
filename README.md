@@ -1,4 +1,6 @@
 # Solving the Second Order Drop — Swiggy Instamart 🛵
+![Uploading image.png…]()
+
 
 **Project Streaks**: Transforming Swiggy's food ecosystem into a long-term grocery retention engine.
 
